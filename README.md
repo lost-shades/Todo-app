@@ -12,7 +12,8 @@ This is a simple Todo list web application built using HTML, CSS, and JavaScript
 
 ## How to Use
 
-1. Clone or download this repository to your local machine.
+1. Clone or download this repository to your local machine. 
+       git clone https://github.com/lost-shades/Todo-app.git
 2. Open the `index.html` file in your web browser.
 3. Use the input field to add new tasks, press Enter, or click the "Add Task" button.
 4. Click on the ✅ emoji to mark a task as completed.
@@ -31,4 +32,6 @@ This is a simple Todo list web application built using HTML, CSS, and JavaScript
 - CSS
 - JavaScript
 
+## Contact Details
 
+- Email: adaezeugwuoke@gmail.com
