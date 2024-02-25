@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0000ff;
+    background-color: #08eaff;
   }
   
   .container {
@@ -15,7 +15,7 @@ body {
   }
   
   .taskButton {
-    background-color: #03c503;
+    background-color: #5e42fc;
     cursor: pointer;
   }
   h1 {
@@ -36,7 +36,7 @@ body {
   li {
     padding: 10px;
     border-bottom: 1px solid #ddd;
-    background-color: #03c503;
+    background-color: #5e42fc;
     margin: 10px;
   }
   
